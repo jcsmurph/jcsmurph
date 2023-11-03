@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I have been working mainly with Python for the last 4 years on backend integrations
+- I am currently in the process of learning Go and absolutely loving it
+- I love learning about new technologies and how to best use them in my projects
 
 <!--
 **jcsmurph/jcsmurph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
