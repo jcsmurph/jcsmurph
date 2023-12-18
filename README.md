@@ -3,6 +3,10 @@
 - I am currently in the process of learning Go and absolutely loving it
 - I love learning about new technologies and how to best use them in my projects
 
+# 2024 Goals
+- Contribute to OSS development
+- Go through the 5 stages of grief while learning C/C++
+
 <!--
 **jcsmurph/jcsmurph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
